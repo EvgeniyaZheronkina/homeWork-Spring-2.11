@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Set;
 
 @RestController
-@RequestMapping("/order")
+@RequestMapping("/store")
 public class StoreController {
     private final StoreService storeService;
 
